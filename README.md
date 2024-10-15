@@ -1,0 +1,1 @@
+- Pokrenuti API projekat nezavisno (dotnet run)
