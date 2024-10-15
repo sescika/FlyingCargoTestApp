@@ -1,1 +1,2 @@
 - Pokrenuti API projekat nezavisno (dotnet run)
+- Baza.sql skripta za bazu
